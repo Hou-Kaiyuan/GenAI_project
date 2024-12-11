@@ -37,6 +37,7 @@ Create a `.env` file and include the following API keys:
 - **`llama_formatting.py`**: Converts the generated dataset into the llama format.
 - **`context_eval.py`**: Executes Experiment 2 as detailed in the project report.
 - **`datasets` folder**: Stores the final datasets used for GPT and Llama fine-tuning.
+- **`IMUData_1127`folder**: Stores the collected IMU data.
 - **`experiments` folder**: Contains code to reproduce Experiment 1.
 - **`finetune` folder**: Includes scripts for fine-tuning GPT and Llama models, along with CSV files recording loss metrics.
 
