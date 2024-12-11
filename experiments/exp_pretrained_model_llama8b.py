@@ -6,13 +6,7 @@ import json
 from together import Together
 import os
 import numpy as np
-import asyncio
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
-import shutil
 import argparse
-import time
-import pdb
 from langchain_ollama import ChatOllama
 from langchain_core.messages import AIMessage
 from langchain_core.prompts import ChatPromptTemplate
@@ -58,8 +52,6 @@ args = parse_args()
 
 if args.letter_list:
     test_letter_ls=args.letter_list
-
-print(test_letter_ls)
     
 for letter in test_letter_ls:
     letter_data_pth=data_pth+letter+'/'

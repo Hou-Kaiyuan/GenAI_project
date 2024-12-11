@@ -16,3 +16,4 @@ dependencies:
       - backoff
       - pyarrow
       - wandb
+      - langchain-ollama

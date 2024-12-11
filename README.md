@@ -43,9 +43,16 @@ Create a `.env` file and include the following API keys:
 ### 4. Suggested Experiments
 We recommend running:
 ```bash
-python experiments/exp_pretrained_model_llama8b.py
+cd experiments
+python exp_pretrained_model_llama8b.py
 ```
-This experiment uses a local model, making it feasible for machines with a GPU of 8GB or more. The backend engine used is **Ollama**.
+This experiment uses a local model, making it feasible for machines with a GPU of 8GB or more. The backend engine used is **Ollama**. 
+How to install Ollama please refer to: https://ollama.com/download
+
+Download the llama3.1 8b by:
+```bash
+ollama pull llama3.1:8b
+```
 
 ---
 
