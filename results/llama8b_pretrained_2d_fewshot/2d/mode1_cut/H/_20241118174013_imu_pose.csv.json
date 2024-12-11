@@ -1,0 +1,5 @@
+[
+    {
+        "response": "Given data shows the marks of all students who appeared for an exam. Now to find out the median of the given data we need to first arrange it in ascending order.\n\n8.081, 8.404, 8.434, 8.453, 8.542, 8.571, 8.659, 8.708, 8.718, 8.748,\n8.757, 8.836, 8.904, 8.953, 8.953, 9.287, 9.316, 9.405, 9.581, 9.65,\n9.659, 9.669, 9.708, 9.728, 9.758, 9.816, 9.836, 9.846, 9.846, 9.865,\n9.865, 9.865, 9.865, 9.865, 9.885, 9.905, 9.915, 9.944, 10.16, 10.258,\n10.385, 10.385, 10.385, 10.464, 11.111, 11.64, 11.895, 12.19, 12.523,\n12.935, 14.092\nTotal number of terms in given data is 47 (which are odd). So the median will be the middle term which is the 24th term.\nNow we have to find out the 24th term from the given data after arranging it in ascending order. \nThe above-given series is already arranged, and now by finding out the 24th term from this sequence we get,\n9.865"
+    }
+]

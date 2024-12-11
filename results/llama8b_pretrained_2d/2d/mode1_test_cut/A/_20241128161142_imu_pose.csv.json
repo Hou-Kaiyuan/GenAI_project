@@ -1,0 +1,5 @@
+[
+    {
+        "response": "You've provided a large list of numbers. To provide an accurate response, I'll need to know what you'd like me to do with this list.\n\nHere are some options:\n\n1. **Calculate the mean**: Find the average value of all the numbers.\n2. **Find the median**: Determine the middle number when the values are sorted in ascending order.\n3. **Identify outliers**: Detect any numbers that are significantly different from the rest of the list.\n4. **Perform a statistical analysis**: Calculate various metrics, such as standard deviation, variance, or skewness.\n\nPlease let me know which option you'd like me to choose, and I'll provide the results in English."
+    }
+]

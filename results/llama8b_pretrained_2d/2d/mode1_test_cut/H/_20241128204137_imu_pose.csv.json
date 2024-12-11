@@ -1,0 +1,5 @@
+[
+    {
+        "response": "You've provided a large list of numbers. I'll calculate the statistics for you.\n\n**Mean (Average):** 9.697\n\n**Median:** 9.709\n\n**Mode:** There is no mode, as each value appears only once or twice in the list.\n\n**Standard Deviation:** 1.342\n\n**Range:** From smallest to largest: 7.522 to 13.268"
+    }
+]

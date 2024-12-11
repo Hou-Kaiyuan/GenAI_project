@@ -1,0 +1,5 @@
+[
+    {
+        "response": "You've provided a list of scores.\n\nTo answer your question, I'll need to know what you'd like me to do with this list. Here are some options:\n\n1. **Calculate statistics**: I can calculate the mean (average), median, mode, and standard deviation of the scores.\n2. **Identify outliers**: I can help identify any scores that are significantly higher or lower than the rest.\n3. **Rank the scores**: I can sort the list in ascending or descending order to see who scored the highest or lowest.\n4. **Provide summary statistics**: I can give you a summary of the distribution of scores, such as the range, interquartile range (IQR), and quartiles.\n\nPlease let me know which option you'd like me to choose!"
+    }
+]

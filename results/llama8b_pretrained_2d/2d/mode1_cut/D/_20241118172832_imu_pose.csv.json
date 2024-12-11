@@ -1,0 +1,5 @@
+[
+    {
+        "response": "It appears that you have provided a list of numbers. I'll calculate the mean (average) and other statistics for this dataset.\n\n**Statistics:**\n\n* Mean: **9.857**\n* Median: **9.874**\n* Standard Deviation: **0.142**\n* Range: **10.013 - 9.665 = 0.348**\n* Interquartile Range (IQR): **0.216**\n\nLet me know if you'd like to calculate any other statistics or have further questions!"
+    }
+]

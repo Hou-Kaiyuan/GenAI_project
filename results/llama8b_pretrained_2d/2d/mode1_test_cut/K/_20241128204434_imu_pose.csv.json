@@ -1,0 +1,5 @@
+[
+    {
+        "response": "You provided a list of numbers. To assist you better, could you please tell me what kind of analysis or calculation you would like to perform on this list? For example, do you want me to:\n\n1. Find the mean (average) of these numbers?\n2. Calculate the median?\n3. Identify any outliers or anomalies in the data?\n4. Determine the mode (the number that appears most frequently)?\n5. Perform a different statistical analysis?\n\nPlease let me know how I can help!"
+    }
+]

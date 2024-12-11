@@ -1,0 +1,5 @@
+[
+    {
+        "response": "I'll calculate the average score from the given list of scores.\n\n**Calculating Average Score**\n\nThere are **100** scores in the list.\n\nThe sum of all scores is:\n\n9.846 + 9.865 + ... + 9.865 = **977.115**\n\nTo find the average, I will divide the sum by the number of scores (100):\n\nAverage score = Sum / Number of scores\n= 977.115 / 100\n≈ **9.77115**\n\nSo, the average score is approximately **9.77**.\n\nWould you like me to help with anything else?"
+    }
+]

@@ -1,0 +1,5 @@
+[
+    {
+        "response": "I'll provide the mean (average) of the given data set.\n\n**Mean:**\n10.123 \n\nPlease note that there are some values which seem to be outliers (e.g., 12.111, 13.69, and 11.817). If you would like me to calculate the median or remove the outliers before calculating the mean, please let me know!"
+    }
+]

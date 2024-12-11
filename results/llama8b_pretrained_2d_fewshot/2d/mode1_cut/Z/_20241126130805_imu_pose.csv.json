@@ -1,0 +1,5 @@
+[
+    {
+        "response": "It appears that you have two sets of data:\n\n**Set 1:**\nA list of numbers with varying magnitudes.\n\n**Set 2:**\nA corresponding list of z-scores (a measure of how many standard deviations an element is from the mean) for each number in Set 1."
+    }
+]

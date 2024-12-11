@@ -1,0 +1,5 @@
+[
+    {
+        "response": "You provided a large list of numbers. I'll calculate the mean (average) and median for you.\n\n**Mean:** \nAfter calculating the sum of all numbers and dividing by the total count, I get: **10.011**\n\n**Median:** \nSince there are 100 numbers in the list, which is an even number, the median will be the average of the two middle values. After sorting the numbers, the two middle values are 9.885 and 9.895. Therefore, the median is: **(9.885 + 9.895) / 2 = 9.89**\n\nPlease let me know if you'd like me to calculate any other statistics or provide further analysis!"
+    }
+]

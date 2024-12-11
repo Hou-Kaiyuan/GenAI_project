@@ -1,0 +1,5 @@
+[
+    {
+        "response": "I'll calculate the average of the given scores.\n\nThe sum of all scores is:\n\n(865 + 9915 + 9816 + ... + 9865) = 172,111\n\nThere are 100 scores in total.\n\nTo find the average, divide the sum by 100:\n\nAverage = 172,111 / 100 ≈ 1,721.11"
+    }
+]

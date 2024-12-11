@@ -1,0 +1,5 @@
+[
+    {
+        "response": "This is a list of scores. What would you like to know about the data? \n\nAre you trying to find:\n\n1. The highest score?\n2. The lowest score?\n3. The average score?\n4. The median score (middle value)?\n5. A specific score or range?\n\nPlease let me know, and I'll be happy to help."
+    }
+]
