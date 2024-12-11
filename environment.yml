@@ -17,3 +17,5 @@ dependencies:
       - pyarrow
       - wandb
       - langchain-ollama
+      - seaborn
+      - scikit-learn

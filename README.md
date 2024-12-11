@@ -54,5 +54,7 @@ Download the llama3.1 8b by:
 ollama pull llama3.1:8b
 ```
 
+
+The figures for experiments (confusion matrix, train loss, and context accuracy) can be obtained by running the code in `report_figures.ipynb`.
 ---
 
