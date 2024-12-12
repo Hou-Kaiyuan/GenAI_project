@@ -8,7 +8,7 @@ This repository contains the code and resources (data) for our EECSE6694 Generat
 |----------------|----------------|
 | Kaiyuan Hou  | kh3119@columbia.edu  | 
 | Lilin Xu  | lx2331@columbia.edu  | 
-
+Both members contribute equally to this project.
 ## Introduction
 Large Language Models (LLMs) have shown exceptional performance across diverse domains, yet their potential for handling sensor data remains unexplored. In this project, we investigate the use of LLMs for interpreting IMU data and observe that their accuracy under zero-shot settings is close to random guessing. By fine-tuning two models with a rigorously self-collected dataset, we achieve up to a $16\times$ improvement in accuracy on the test set, leveraging both fine-tuning and few-shot learning. In a context-based evaluation, where words are predicted from multiple letters, the models attain nearly 80\% accuracy for words with fewer than five characters. However, our findings reveal that fine-tuning state-of-the-art LLMs can degrade performance due to the domain gap between the fine-tuning dataset and the test set, whereas it proves beneficial for weaker models. Overall, while LLMs show promise, their performance appears to be upper-bounded and falls short of simpler traditional models, it still facing several challenges in practical uses.
 
@@ -38,6 +38,8 @@ Create a `.env` file and include the following API keys:
 - **`context_eval.py`**: Executes Experiment 2 as detailed in the project report.
 - **`datasets` folder**: Stores the final datasets used for GPT and Llama fine-tuning.
 - **`IMUData_1127`folder**: Stores the collected IMU data.
+    - `2d` folder: data when writing on a table; `3d` folder: data when writing in the air.
+    - `similarity_train.csv` and `similarity.csv`: store similarity between two pieces of data.
 - **`experiments` folder**: Contains code to reproduce Experiment 1.
 - **`finetune` folder**: Includes scripts for fine-tuning GPT and Llama models, along with CSV files recording loss metrics.
 
