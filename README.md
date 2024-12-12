@@ -42,7 +42,7 @@ Create a `.env` file and include the following API keys:
 - **`IMUData_1127`folder**: Stores the collected IMU data.
     - `2d` folder: data when writing on a table; `3d` folder: data when writing in the air.
     - `similarity_train.csv` and `similarity.csv`: store similarity between two pieces of data, used in experiments with the few-shot setting.
-- **`experiments` folder**: Contains code to reproduce Experiment 1.
+- **`experiments` folder**: Contains code to reproduce Experiment 1. Results are saved in the `results` folder.
 - **`finetune` folder**: Includes scripts for fine-tuning GPT and Llama models, along with CSV files recording loss metrics.
 
 ### 4. Suggested Experiments
